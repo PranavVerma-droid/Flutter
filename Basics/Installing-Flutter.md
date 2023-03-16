@@ -1,1 +1,5 @@
-Install Flutter Guide (Windows): [Here](https://docs.flutter.dev/get-started/install/windows#update-your-path)
+<hr> <br>
+Install Flutter Guide (Windows): [Here](https://docs.flutter.dev/get-started/install/windows) <br>
+<hr> <br>
+System Requirements: [Here](https://docs.flutter.dev/get-started/install/windows#system-requirements) <br>
+
